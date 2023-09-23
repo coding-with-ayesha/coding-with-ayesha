@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayesha Arshad</h1>
 <h3 align="center">A passionate Full Stack Web and App developer.</h3>
-<img src="https://cdn.pnghd.pics/data/14/coding-gif-24.gif" alt="Coding" width="400">
+<img src="(https://cdn.pnghd.pics/data/14/coding-gif-24.gif)" alt="Coding" width="400" height="400" style="float:right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coding-with-ayesha&label=Profile%20views&color=0e75b6&style=flat" alt="coding-with-ayesha" /> </p>
 

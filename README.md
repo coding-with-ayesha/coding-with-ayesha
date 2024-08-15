@@ -1,14 +1,100 @@
-<h1 align="center">Hi 👋, I'm Ayesha Arshad</h1>
-<h3 align="center">Full Stack Developer | AI Tool & Chatbot Developer | Blockchain Developer</h3>
-<h5 align="center">Greetings, I'm Ayesha Arshad, a passionate Full Stack Developer with expertise in AI tool and chatbot development, as well as blockchain technologies. With over four years of experience, I excel in both Backend and Frontend Development, and I'm dedicated to crafting user-friendly applications and staying ahead of the latest tech trends. Let's connect and create innovative digital solutions together! 🚀</h5>
+<div align="center">
+  
+![Ayesha](gitartwork.svg)
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffcc00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Nazmul+Hossain" alt="Typing SVG" /></a></h3>
+  <a href="https://app.daily.dev/heynazmul"><img src="https://api.daily.dev/devcards/6efc20f3ae744199ab4a204dd62a939a.png?r=nbh" style="margin: 5px;" width="35%" alt="Nazmul hossain's Dev Card"/></a>
+  <a href="https://leetcode.com/Nazmul20">
+  <img src="https://leetcard.jacoblin.cool/Nazmul20?theme=dark&font=Poppins&ext=activity" width="60%" style="margin: 5px;"/>
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coding-with-ayesha&label=Profile%20views&color=0e75b6&style=flat" alt="coding-with-ayesha" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coding-with-ayesha" alt="coding-with-ayesha" /></a> </p>
 
-- 🌱 I’m currently learning **AI, Web 3.0 & Metaverse**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/MarufAlAslam)
 
-- 📫 How to reach me **ayeshamarshad300@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/ic
+### 🐼 About Me :
+
+Currently, I'm working as a Front-end developer intern  at Devwavee Technology. Besides that, I love to develop my skills in Fullstack web development (PHP, Laravel). Other than that, I am a Freelance Web Developer at Fiverr where I have  different clients and more than 20+ projects completed.
+
+
+### 😎 Skillset :
+
+Programming Languages:  `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `PHP` 
+CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
+
+Javascript Frameworks/Libraries:  `jQuery`
+
+Components and UIs: `Material UI` `Styled Components `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
+
+Databases:`MySQL`
+
+Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`
+
+Familiar with: 
+
+Tools: `VS code` `Git GitHub `
+
+<hr>
+
+### 👨‍💼Experiences:
+
+| No | Job Title | Company Name | Start Date:| End Date | Location |
+| ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
+| 1  | Junior Front-end Developer (intern)  | Devwavee | 1st Octber  2023  | 30 December 2023 | Dhaka, Bangladesh |
+
+
+* RWD = Responsive Web Design.
+
+
+<hr>
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"  title="Bootstrap" alt="Bootstrap"/>&nbsp;
+   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"  title="Tailwind" alt="Tailwind CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node" alt="Node" />&nbsp;
+  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
+   <img src="https://img.shields.io/badge/PHP-CB3837.svg?style=for-the-badge&logo=PHP&logoColor=white" title="PHP" alt="NPM"/>&nbsp;
+  
+</div>
+<hr>
+<a href="https://drive.google.com/file/d/1KOdFufA6C6BuzZ_CL7hZOab80LcEltmj/view?usp=sharing" style="text-decoration: none"  target="_blank">
+ <img src="https://i.ibb.co/SrqYy2L/btn.png" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:300px;max-width:80%;height:auto;" alt="dnld" border="0">
+  </a>
+
+<hr>
+
+### 🔥 My GitHub Stats :
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heynazmul&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=heynazmul&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
+</div>
+
+<hr>
+
+<br>
+<div id="badges" align="center">
+   <a href="https://www.fiverr.com/" style="text-decoration: none" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
+   </a>
+  <a href="https://www.linkedin.com/in/heynazmul/" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/heynazmul" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.facebook.com/heynazmul/" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+   </a>
+  
+   <br>
+</div>

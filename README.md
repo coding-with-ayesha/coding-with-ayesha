@@ -1,100 +1,56 @@
-<div align="center">
-  
-![Ayesha](gitartwork.svg)
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffcc00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Nazmul+Hossain" alt="Typing SVG" /></a></h3>
-  <a href="https://app.daily.dev/heynazmul"><img src="https://api.daily.dev/devcards/6efc20f3ae744199ab4a204dd62a939a.png?r=nbh" style="margin: 5px;" width="35%" alt="Nazmul hossain's Dev Card"/></a>
-  <a href="https://leetcode.com/Nazmul20">
-  <img src="https://leetcard.jacoblin.cool/Nazmul20?theme=dark&font=Poppins&ext=activity" width="60%" style="margin: 5px;"/>
-  </a>
-</div>
+# Note: This repository is _not_ included in the Hacktoberfest event, as it is for practice only!
 
-<br/>
+## Awesome GitHub profiles
 
+[![Read/Write profiles' data](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/MarufAlAslam)
+List of GitHub profiles that have awesome customization, that you can use for inspiration.\
+Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) with your suggestions for awesome GitHub profiles.
 
+<p align="center">
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/built_with-love-red" alt="built with love badge" />
+ </a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/made_with-markdown-blue" alt="made with markdown badge" />
+ </a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/open-source-green" alt="open source badge" />
+ </a>
+ <br />
+ <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/check_it-out-blue" alt="check it out badge" />
+ </a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/built_by-developers-yellow" alt="built by developers badge" />
+ </a>
+</p>
 
-### 🐼 About Me :
+## How can I add my GitHub profile? 🤷‍♀️🤷‍♂️
 
-Currently, I'm working as a Front-end developer intern  at Devwavee Technology. Besides that, I love to develop my skills in Fullstack web development (PHP, Laravel). Other than that, I am a Freelance Web Developer at Fiverr where I have  different clients and more than 20+ projects completed.
+1. Create an [issue](https://github.com/EddieHubCommunity/awesome-github-profiles/issues), with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image URL, this will be needed in the next step)
 
+2. Fork the project, using the top right corner button, that states `fork`
 
-### 😎 Skillset :
+3. Create a file named `your-username.json` in the directory [`profiles`](https://github.com/EddieHubCommunity/awesome-github-profiles/tree/main/profiles) with the following content.
 
-Programming Languages:  `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `PHP` 
-CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
+> <span style="color: #606c71">Your entry should be similar to this example:</span>
 
-Javascript Frameworks/Libraries:  `jQuery`
+```json
+{
+  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
+  "issueId": 66,
+  "name": "Eddie Jaoude",
+  "username": "eddiejaoude"
+}
+```
 
-Components and UIs: `Material UI` `Styled Components `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
+4. Create a [Pull Request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `fix: add <your-username>` and in the description add `closes #issueNumber`
 
-Databases:`MySQL`
+## Check out our awesome profiles [here](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)
 
-Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`
+## Our Pledge
 
-Familiar with: 
+We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.  
 
-Tools: `VS code` `Git GitHub `
-
-<hr>
-
-### 👨‍💼Experiences:
-
-| No | Job Title | Company Name | Start Date:| End Date | Location |
-| ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 1  | Junior Front-end Developer (intern)  | Devwavee | 1st Octber  2023  | 30 December 2023 | Dhaka, Bangladesh |
-
-
-* RWD = Responsive Web Design.
-
-
-<hr>
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"  title="Bootstrap" alt="Bootstrap"/>&nbsp;
-   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"  title="Tailwind" alt="Tailwind CSS"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node" alt="Node" />&nbsp;
-  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
-   <img src="https://img.shields.io/badge/PHP-CB3837.svg?style=for-the-badge&logo=PHP&logoColor=white" title="PHP" alt="NPM"/>&nbsp;
-  
-</div>
-<hr>
-<a href="https://drive.google.com/file/d/1KOdFufA6C6BuzZ_CL7hZOab80LcEltmj/view?usp=sharing" style="text-decoration: none"  target="_blank">
- <img src="https://i.ibb.co/SrqYy2L/btn.png" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:300px;max-width:80%;height:auto;" alt="dnld" border="0">
-  </a>
-
-<hr>
-
-### 🔥 My GitHub Stats :
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heynazmul&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=heynazmul&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
-</div>
-
-<hr>
-
-<br>
-<div id="badges" align="center">
-   <a href="https://www.fiverr.com/" style="text-decoration: none" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
-   </a>
-  <a href="https://www.linkedin.com/in/heynazmul/" style="text-decoration: none"  target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/heynazmul" style="text-decoration: none"  target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.facebook.com/heynazmul/" style="text-decoration: none"  target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-   </a>
-  
-   <br>
-</div>
+If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this.  Read our [Code of Conduct](https://github.com/EddieHubCommunity/awesome-github-profiles/blob/main/CODE_OF_CONDUCT.md).

@@ -1,56 +1,12 @@
-# Note: This repository is _not_ included in the Hacktoberfest event, as it is for practice only!
+# 👋 Hi, I'm Ayesha Arshad
 
-## Awesome GitHub profiles
+I'm a passionate Full Stack Developer, AI Tools & Chatbot Developer, and Blockchain Developer with a strong focus on creating scalable, efficient, and cutting-edge solutions. My expertise spans across various domains, including web development, AI-driven applications, and decentralized technologies.
 
-[![Read/Write profiles' data](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml)
-
-List of GitHub profiles that have awesome customization, that you can use for inspiration.\
-Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) with your suggestions for awesome GitHub profiles.
-
-<p align="center">
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/built_with-love-red" alt="built with love badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/made_with-markdown-blue" alt="made with markdown badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/open-source-green" alt="open source badge" />
- </a>
- <br />
- <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/check_it-out-blue" alt="check it out badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/built_by-developers-yellow" alt="built by developers badge" />
- </a>
-</p>
-
-## How can I add my GitHub profile? 🤷‍♀️🤷‍♂️
-
-1. Create an [issue](https://github.com/EddieHubCommunity/awesome-github-profiles/issues), with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image URL, this will be needed in the next step)
-
-2. Fork the project, using the top right corner button, that states `fork`
-
-3. Create a file named `your-username.json` in the directory [`profiles`](https://github.com/EddieHubCommunity/awesome-github-profiles/tree/main/profiles) with the following content.
-
-> <span style="color: #606c71">Your entry should be similar to this example:</span>
-
-```json
-{
-  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  "issueId": 66,
-  "name": "Eddie Jaoude",
-  "username": "eddiejaoude"
-}
-```
-
-4. Create a [Pull Request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `fix: add <your-username>` and in the description add `closes #issueNumber`
-
-## Check out our awesome profiles [here](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)
-
-## Our Pledge
-
-We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.  
-
-If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this.  Read our [Code of Conduct](https://github.com/EddieHubCommunity/awesome-github-profiles/blob/main/CODE_OF_CONDUCT.md).
+## 🔧 Technologies & Tools
+```markdown
+- **Frontend Development:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- **Backend Development:** ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- **Database Management:** ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **AI Tools & Chatbot Development:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- **Blockchain Development:** ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+- **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
